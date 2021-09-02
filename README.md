@@ -6,9 +6,9 @@
 
 - 🌱 I’m continously learning **Vue, Angular, React, Typescript and Javascript**
 
-- 👨‍💻 All of my projects are available at [@premnathkulal](https://github.com/premnathkulal)
-
 - 💬 Ask me about **coding💻 and Flute 😜**
+
+- 📫 Reach me on: [@premnathkulal](https://www.instagram.com/prem.kulal_1998/)
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
