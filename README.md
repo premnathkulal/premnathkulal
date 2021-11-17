@@ -1,5 +1,5 @@
 <h2>🙏 Namaste This is Premnath</h2>
-<h3>A passionate developer from India!. I enjoy working on the technologies like Python, Java, Web Development, Android Development and I love to learn more each day.</h3>
+<h3>A passionate developer from India!. I enjoy working on the technologies like Python, Java, Web Development, Android Development and I love to learn more every day.</h3>
 <hr/>
 
 - 🔭 I’m currently working on **Web Development Projects**
