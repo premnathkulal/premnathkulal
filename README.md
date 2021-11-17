@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **coding💻 and Flute 😜**
 
-- 📫 Reach me on: [@premnathkulal](https://www.instagram.com/prem.kulal_1998/)
+- 📫 Reach me on: [@premnathkulal](https://www.linkedin.com/in/premnath-kulal-06329a169/)
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
