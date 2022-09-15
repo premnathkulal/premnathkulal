@@ -22,7 +22,7 @@
 <a href="https://codepen.io/premnathkulal">
   <img align="left" alt="Premnath | Codepen" width="22px" src="./assets/codepen.svg" />
 </a>
-<a href="https://www.instagram.com/prem.kulal_1998/">
+<a href="https://www.instagram.com/_prem_kulal/">
   <img align="left" alt="Premnath | Instagram" width="22px" src="./assets/instagram.svg" />
 </a>
 </p>
